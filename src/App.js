@@ -86,7 +86,7 @@ function App() {
         <tr>
           <th>Editar</th>
           <th>Producto</th>
-          <th>Descripcion del producto</th>
+          <th>Descripcion del productoto</th>
           <th>Borrar</th>
         </tr>
       </thead>
